@@ -14,6 +14,11 @@ module.exports = {
         iextrabold: ["Inter-ExtraBold", "sans-serif"],
         iblack: ["Inter-Black", "sans-serif"],
       },
+      colors: {
+        primary: "#0281f1",
+        secondary: "#b7d9f8",
+        accent: "#936801",
+      },
     },
   },
   plugins: [],
